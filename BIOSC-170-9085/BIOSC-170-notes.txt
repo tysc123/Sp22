@@ -1,7 +1,7 @@
-#Environmental Science
-
-Day 1 Monday Jan 24, 2022
-*************************
+####Environmental Science#####
+******************************
+Meeting 1 Monday Jan 24, 2022
+******************************
 
 #What is environmental science?
 
@@ -44,3 +44,139 @@ BOOK: Collapse by Jared Diamond (2005) about the collpase of societies
 -Write a page about an environmental scientist. Due midnight Friday
 -Discussion for week 1 Meet n Greet
 -Orientation Quiz
+
+******************
+Meeting 2 - Jan 31 
+******************
+
+#Levels of Scale
+1. Organism
+2. Population
+3. Community
+4. Ecosystem
+5. Landscape
+6. Biosphere
+
+Energy flows, matter is recycled.
+
+#Biogeochemical cycles
+-Matter cycles within ecosystems from one organism to another.
+-Energy floes in one direction THROUGH an ecosystem. 
+-Producer --> Consumers
+-Energy enters a system as sunlight and exits as heat.
+
+#The water cycle
+
+#Sources and sinks
+
+RESIDENCE TIME: How long a nutrient/material remains in a reservoir
+FLUX: the rate at which materials move between reservoirs
+
+https://www.nationalgeographic.org/encyclopedia/carbon-sources-and-sinks/
+
+EUTROPHICATION: excessive richness of nutrients in a lake or other body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen.
+
+#Energy flow in ecosystems
+-All living organisms require energy to survive and function.
+-Organisms get their energy for life either by:
+	-Autotophs: Getting energy from an abiotic source and making their own food with that energy
+	-Heterotrophs: Getting energy/food from consuming other organisms
+
+#PHOTOSYNTHESIS FOLMULA
+Sunlight, carbon dioxide, water --> oxygen, glucose
+6CO2 + 6H20 + light energy >>> c6h12O6 + 6O2
+
+-Two types of autotrophs:
+	-Photoautotrophs: do photosynthesis to make their own food from the sun's Energy
+	-chemoautotrophs: do chemosynthesis to make their own food using energy from chemicals
+
+-All living things do some type of respiration --> cells harvest E from chemical bonds by breaking down organic molecules (eg. sugar) into simpler molecules and extracting the stored energy
+-Living things access this stored E by breaking these bonds during cellular respiration
+
+#AEROBIC RESPIRATION
+C6H12O6 (glucose) + 6O2 --> 6CO2 + 6H2O + ENERGY
+
+-energy comes to our planet from the sun
+-is converted into chemical bond energy by photosynthetic organisms
+-is accessed for use by organisms through aerobic or anaerobic respiration
+-all life is linked in food chains and webs -
+TROPHIC INTERACTIONS: feeding relationships between organisms
+
+FOOD WEB DIAGRAMS: Trophic interactions can be highly complex, making them difficult to work with
+
+FOOD CHAINS: simplified food webs, a sequence of organisms that food on each other
+-many food chains create food webs
+
+DECOMPOSERS: feed on dead producers and consumers
+	-are necessary for the renewal of life because they recycle nutrients and 			biological molecules making them available to be used again by producers
+
+DECOMPOSERS: turn food chain into food cycle
+FOOD PYRAMID: show biomass of organisms in each level of the food chain
+ 
+(slide 33, 34, and 36)
+    ____
+   /_3c_\
+  /__2c__\
+ /___1c___\
+/____1p____\
+
+tertiary consumer
+				^
+secondary consumer
+				^
+primary consumer
+				^
+primary producer
+
+==================================================
+
+PRACTICE QUESTION 1: Sevengill sharks are one of 
+our local shark species in coastal California. 
+If a sevengill shark that is a tertiary predator 
+weighs 150 lbs, how many lbs of primary producers 
+must support it?
+
+3rd consumer | shark 150lbs
+2nd consumer | 150 x 10 = 1,500 lbs
+1st consumer | 1,500 x 10 = 15,000 lbs
+1st producer | 15,000 x 10 = 150,000 lbs
+
+Answer: 150,000 lbs of primary producer needed to support it.
+
+===================================================
+
+QUESTION 2: Ospreys are one of our most 
+important fish-eating birds of prey. An 
+average osprey weighs 3 lbs.  Based 
+on the food pyramid to the left, how 
+many osprey would be supported by 
+60,000 lbs of algae and phytoplankton?
+
+Inverted pyramid (divide up the chain):
+
+60,000 / 10 = 6,000
+6,000 / 10 = 600
+600 / 10 = 60
+60 / 10 = 6
+6 / 3 = 2 
+
+Answer: 2 osprey would be supported.
+
+===================================================
+
+-Food webs allow us to trace the 
+movement of materials through 
+ecosystems and understand their 
+biomagnification in organis
+
+#DDT case study
+
+BIOACCUMULATION: refers to the accumulation chemicals in an organism & occurs when an organism absorbs a toxic substance at a rate greater than that at which the substance is lost.
+
+BIOMAGNIFICATION:S the increasing concentration of a substance, such as a toxic chemical, in the tissues of organisms at successively higher livels in a food chain
+
+Accumulate the chemical, it magnifies up the food chain.
+
+
+
+

@@ -178,5 +178,37 @@ BIOMAGNIFICATION:S the increasing concentration of a substance, such as a toxic 
 Accumulate the chemical, it magnifies up the food chain.
 
 
+******************
+Meeting 3 - Feb. 7 | Population Ecology
+******************
+
+Population Density = # of individuals / unit area
+
+Population distribution (dispersion): nspacial arangement of organisms in an area
+	1. Clumped
+	2. Uniform
+	3. Random
+
+HOW DO POPULATIONS CHANGE IN SIZE?
+
+Determined by four factors:
+	1. Natality: births in a population
+	2. Mortality: death in a population
+	3. Immigration: arrival of new individuals from outside a population
+	4. Emigration: Departure of individuals from the population
+
+	RATE OF INCREASE = (birth rate) - (death rate)
+
+	r = (b - d) + (i - e)
+
+	r is pos. = pop. increase
+	r is neg. = pop decrease
+	r is zero = pop is stationary
+
+Population is still increasing, but rate of change is decreasing. 
+
+Low and High Biotic potential
+
+
 
 
